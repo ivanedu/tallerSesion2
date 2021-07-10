@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="WhenDo" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-10T13:21:38" hostname="EDDU_DESKTOP" time="58.295">
+  <properties/>
+  <testcase name="verifyCreateContact()" classname="WhenDo" time="58.295"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[jul 10, 2021 8:22:05 AM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFORMACIÓN: Detected dialect: W3C
+]]></system-err>
+</testsuite>
